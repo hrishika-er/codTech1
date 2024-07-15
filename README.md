@@ -1,11 +1,11 @@
-Name:Hrishika Verma 
-Company:CodTech
-ID:CT4SQL4338
-Domain:SQL 
-Duration:july to August 
-Overview Of the project 
-PROJECT:LIBRARY MANAGEMENT SYSTEM
-OBJECTIVE:LIBRARY MANAGEMENT SYSTEM 
+1.Name:Hrishika Verma 
+2.Company:CodTech
+3.ID:CT4SQL4338
+4.Domain:SQL 
+5.Duration:july to August 
+6.Overview Of the project 
+a.PROJECT:LIBRARY MANAGEMENT SYSTEM
+b. OBJECTIVE:
 Create a database for managing a library's book inventory, members, and 
 borrow/return transactions. This project helps you learn basic SQL commands 
 and database design. Design tables for books, members, and transactions. 
