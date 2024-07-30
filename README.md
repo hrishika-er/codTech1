@@ -2,8 +2,9 @@
 2.Company:CodTech
 3.ID:CT4SQL4338
 4.Domain:SQL 
-5.Duration:july to August 
-6.Overview Of the project 
+5.Duration:july to August
+6.MENTOR:Muzammil Ahmed
+7.Overview Of the project 
 a.PROJECT:LIBRARY MANAGEMENT SYSTEM
 b. OBJECTIVE:
 Create a database for managing a library's book inventory, members, and 
